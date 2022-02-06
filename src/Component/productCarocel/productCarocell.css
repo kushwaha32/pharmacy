@@ -1,0 +1,28 @@
+.item > img {
+  padding: 9px !important;
+  box-sizing: border-box !important;
+  border: 1px solid #e6e6e6 !important;
+}
+
+.product_carocell > h3 {
+  margin-bottom: 30px;
+}
+.product_carocell .owl-prev,
+.product_carocell .owl-next {
+  color: #777 !important;
+  height: 37px !important;
+  width: 37px !important;
+  border-radius: 50% !important;
+  box-shadow: 0 0 0 1px rgb(0 0 0 / 4%), 0 3px 3px 0 rgb(0 0 0 / 20%) !important;
+  background-color: #fff !important;
+  border: 1px solid rgba(14, 19, 24, 0.02) !important;
+  position: absolute;
+  top: 29%;
+}
+.product_carocell .owl-prev {
+  left: 0;
+}
+
+.product_carocell .owl-next {
+  right: 0;
+}

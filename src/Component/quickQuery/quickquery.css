@@ -1,0 +1,32 @@
+.form_label {
+  padding-left: 152px;
+  padding-top: 10px;
+  text-transform: capitalize;
+}
+
+.form-control {
+  border-radius: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.btn_holder {
+  text-align: right;
+  margin-top: 30px;
+}
+.btn_holder > button {
+  border-radius: 0px;
+  width: 138px;
+  border: 2px solid #0d6efd;
+  background: #fff;
+  color: #212529;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 13px;
+  transition: all 0.4s ease-in-out;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.btn_holder > button:hover {
+  background: #0d6efd;
+  color: #fff;
+}
